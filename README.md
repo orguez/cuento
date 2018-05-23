@@ -11,3 +11,5 @@ Esto es un enlace
 *Esto es una cursiva*
 
 **Esto es en negrita**
+* Día 1
+* Día 2
